@@ -16,6 +16,7 @@ sudo insmod cr3_finder.ko
 dmesg | tail
 ```
 You should see something like this:
+
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/666d2f90-91e3-487b-ba9f-bfdc3b964cf7" />
 
 
